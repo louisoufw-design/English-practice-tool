@@ -1,0 +1,252 @@
+# s10e12 | Blasts from the Past
+L: Phil 和 Claire 見到 Dylan 的媽媽，對她那套當爺爺奶奶的想法不太認同；Jay 和 Gloria 發現兩人的叔叔當年在一場戰爭中分屬敵對陣營；Mitchell 在 Lily 房間發現一本不該出現的雜誌，後來才知道事情跟他想的不一樣。
+S: dunphy | Dylan 的媽媽 | Phil · Claire · Dylan 的媽媽 | 兩家人第一次見面，教養觀念完全不同。
+P: parenting style | 教養方式 | 兩家對帶小孩的想法不一樣。 | My parents had a very strict parenting style. | 我爸媽的教養方式很嚴格。 | 延伸：helicopter parenting、free-range parenting。
+P: hippie | 嬉皮 | Dylan 的媽媽很隨性自在。 | His mom is a total hippie. She doesn't wear shoes. | 他媽媽是個十足的嬉皮，連鞋都不穿。 | 文化：六〇年代反主流文化的人。
+P: free spirit | 自由奔放的人 | 她不受規矩拘束。 | She's a free spirit who travels the world alone. | 她是個自由奔放的人，一個人環遊世界。 | 語氣：多半是正面評價。
+P: natural birth | 自然產 | 她對生產有很多主張。 | She wants a natural birth with no painkillers. | 她想自然產，不用止痛藥。 | 對比：C-section 剖腹產。
+S: jay | 敵對陣營 | Jay · Gloria | 兩人發現雙方的叔叔當年在戰場上是敵人。
+P: on opposite sides | 站在對立的兩邊 | 兩個家族當年是敵人。 | Our grandfathers fought on opposite sides of the war. | 我們的阿公在戰爭中是敵對的兩方。 | 用法：辯論、比賽、政治都能用。
+P: enemy lines | 敵方陣線 | 叔叔們在戰場的兩端。 | The soldier was trapped behind enemy lines. | 那名士兵被困在敵後。 | 用法：behind enemy lines 在敵後。
+P: history repeats itself | 歷史會重演 | 兩人好像也有一點小戰爭。 | Look at you two arguing. History repeats itself. | 看你們兩個在吵，歷史真的會重演。 | 用法：說同樣的事又發生了。
+S: mitch | Lily 房間的雜誌 | Mitchell · Cameron · Lily | Mitchell 發現一本雜誌，以為是 Lily 的，結果另有隱情。
+P: assume the worst | 往最壞的方向想 | Mitchell 一下子就想歪了。 | My mom always assumes the worst when I don't answer. | 我沒接電話，我媽總是往最壞的方向想。 | 反義：give someone the benefit of the doubt。
+P: explain oneself | 解釋清楚 | Mitchell 要 Lily 說明。 | You'd better explain yourself. | 你最好解釋清楚。 | 語氣：帶點質問。
+P: it's not what you think | 不是你想的那樣 | 雜誌的來源跟他想的不同。 | Wait, it's not what you think! | 等等，不是你想的那樣！ | 用法：被誤會時的經典台詞。
+Q: 你爸媽的教養方式是怎樣的（用 parenting style、free spirit、hippie）
+Q: 你家有什麼歷史會重演的事嗎（用 history repeats itself、on opposite sides、enemy lines）
+Q: 你被誤會過嗎（用 it's not what you think、assume the worst、explain oneself）
+C: 你沒接電話，你媽就往最壞的方向想。 | assume the worst | My mom always assumes the worst.
+C: 朋友看到你跟女生合照，你說不是你想的那樣。 | it's not what you think | It's not what you think!
+C: 你說你爸媽的教養方式很嚴格。 | parenting style | My parents had a strict parenting style.
+C: 你說你們兄弟在選舉時站在對立的兩邊。 | on opposite sides | We're on opposite sides.
+
+# s10e13 | Whanex?
+L: Jay 在公司被科技問題搞得很煩，員工又缺乏團隊合作，讓他很懷念以前；Cam 找 Alex、Manny、Haley 和 Luke 一起幫他準備對高中生演講「畢業後的人生」，但 Mitchell 的意見讓他很不安；Gloria、Phil 和 Joe 去試鏡一支「理想家庭」的購物中心廣告。
+S: jay | 公司的科技問題 | Jay | Jay 被科技和員工搞得很懷念以前。
+P: tech support | 技術支援 | Jay 搞不定電腦系統。 | I called tech support three times today. | 我今天打給技術支援三次了。 | 延伸：IT department 資訊部。
+P: user-friendly | 好上手的 | 新系統一點都不好用。 | This app isn't very user-friendly. | 這個 App 不太好上手。 | 用法：形容產品、設計很容易用。
+P: the way things used to be | 以前的樣子 | Jay 很懷念以前的做事方式。 | I miss the way things used to be. | 我很懷念以前的樣子。 | 語氣：懷舊、有點感傷。
+S: mitch | 畢業後的人生 | Cameron · Mitchell · Alex · Manny · Haley · Luke | Cam 準備對高中生演講，年輕人們給意見。
+P: adulting | 當大人 | 畢業後要學著當大人。 | Paying bills, doing laundry... adulting is hard. | 繳帳單、洗衣服……當大人好難。 | 用法：網路流行語，把 adult 當動詞。
+P: words of wisdom | 人生忠告 | Cam 想給學生一些智慧小語。 | Any words of wisdom before I start my new job? | 我開始新工作前，有什麼忠告嗎？ | 用法：常用在畢業、婚禮致詞。
+P: life lessons | 人生課題 | 大家分享自己學到的事。 | Failing taught me some important life lessons. | 失敗教會我一些重要的人生課題。 | 用法：從經驗中學到的道理。
+P: real talk | 說真的 | 年輕人說出真心話。 | Real talk, I'm worried about money. | 說真的，我很擔心錢的問題。 | 用法：要開始講認真的話時放在句首。
+S: dunphy | 廣告試鏡 | Gloria · Phil · Joe | 三人去試鏡購物中心的理想家庭廣告。
+P: the perfect family | 完美家庭 | 廣告要找理想的一家人。 | No such thing as the perfect family. | 世界上沒有完美的家庭。 | 用法：常帶點諷刺。
+P: camera-ready | 準備好上鏡 | 大家打扮得很上鏡。 | Give me five minutes to get camera-ready. | 給我五分鐘準備上鏡。 | 用法：化妝、打扮後可以拍照的狀態。
+P: screen test | 試鏡 | 三人去試鏡。 | She did a screen test for the movie. | 她為那部電影試了鏡。 | 對比：audition 範圍更廣，也包含唱歌、舞蹈。
+Q: 你覺得當大人最難的是什麼（用 adulting、life lessons、real talk）
+Q: 你會懷念以前的什麼（用 the way things used to be、tech support、user-friendly）
+Q: 你有什麼人生忠告想給學弟（用 words of wisdom、the perfect family、camera-ready）
+C: 你說繳帳單洗衣服，當大人好難。 | adulting | Adulting is hard.
+C: 你問快離職的前輩有沒有什麼忠告。 | words of wisdom | Any words of wisdom?
+C: 你說這個 App 不太好上手。 | user-friendly | This app isn't very user-friendly.
+C: 你跟朋友說真的，你很擔心畢業後找工作。 | real talk | Real talk, I'm worried about finding a job.
+
+# s10e14 | We Need to Talk About Lily
+L: Cam 和 Mitchell 擔心 Lily 太內向，讓她去參加她最愛的網紅辦的派對，她卻一點都不興奮；Phil 想讓 Pepper 簽下房屋買賣合約；狗狗 Stella 要動個小手術，Jay 情緒潰堤；Bill 想找 Phil 和 Claire 談一個發明，Alex 和 Claire 卻以為他要求婚，想辦法阻止。
+S: mitch | 內向的 Lily | Cameron · Mitchell · Lily | 兩人想讓 Lily 開朗一點，帶她去網紅派對。
+P: introvert | 內向的人 | Lily 比較安靜。 | I'm an introvert. Parties drain my energy. | 我是內向的人，派對很耗我的能量。 | 反義：extrovert 外向的人。
+P: come out of one's shell | 敞開心胸、變開朗 | 兩人希望 Lily 多跟人互動。 | She's finally coming out of her shell. | 她終於開始變得開朗了。 | 畫面：從殼裡探出頭來。
+P: influencer | 網紅 | Lily 最愛的網紅辦派對。 | She's an influencer with a million followers. | 她是擁有一百萬粉絲的網紅。 | 延伸：vlogger 影音部落客、YouTuber。
+P: unimpressed | 不以為然 | Lily 一點都不感興趣。 | The kids looked totally unimpressed. | 孩子們看起來完全不覺得厲害。 | 用法：表情冷淡、不覺得了不起。
+S: dunphy | 合約 · 求婚？ | Phil · Pepper · Alex · Claire · Bill | Phil 想讓 Pepper 簽約；Alex 和 Claire 以為 Bill 要求婚。
+P: sign on the dotted line | 簽約 | Phil 想讓對方正式簽字。 | Once you sign on the dotted line, there's no going back. | 一旦簽了約，就沒有回頭路了。 | 畫面：合約上那條虛線。
+P: put a ring on it | 求婚、定下來 | 大家以為 Bill 要求婚。 | If you love her, put a ring on it. | 如果你愛她，就快點求婚。 | 文化：來自碧昂絲的歌 Single Ladies。
+P: nip it in the bud | 及早阻止 | 兩人想在求婚前阻止。 | If he's lying, nip it in the bud. | 如果他說謊，要及早制止。 | 畫面：在花苞階段就掐掉。
+S: jay | Stella 的手術 | Jay · Stella | 狗狗要動小手術，Jay 卻情緒很激動。
+P: minor surgery | 小手術 | Stella 只是小手術。 | It's just minor surgery. She'll be home tomorrow. | 只是小手術，她明天就能回家。 | 反義：major surgery 大手術。
+P: softie | 心軟的人 | 硬漢 Jay 其實很心軟。 | He looks tough, but he's a big softie. | 他看起來很兇，其實很心軟。 | 同義：softy、a big teddy bear。
+P: get choked up | 哽咽 | Jay 忍不住情緒激動。 | I got choked up during my best friend's wedding speech. | 我在好朋友婚禮致詞時哽咽了。 | 對比：a lump in one's throat 偏重喉嚨卡住的感覺。
+Q: 你是內向還是外向的人（用 introvert、come out of one's shell、unimpressed）
+Q: 你有沒有表面很兇其實很心軟的朋友（用 softie、get choked up、minor surgery）
+Q: 你追蹤哪些網紅（用 influencer、sign on the dotted line、nip it in the bud）
+C: 你說排球隊教練看起來很兇，其實很心軟。 | softie | He's a big softie.
+C: 你說你是內向的人，派對很耗能量。 | introvert | I'm an introvert.
+C: 你說阿嬤只是小手術，明天就能出院。 | minor surgery | It's just minor surgery.
+C: 你說你在姊姊的婚禮上哽咽了。 | get choked up | I got choked up at my sister's wedding.
+
+# s10e15 | SuperShowerBabyBowl
+L: Jay 的超級盃派對撞上了 Haley 的寶寶派對；Dylan 擔心永遠融入不了這個大家族，突然跑掉，大家只好出門找他；Cam 和 Jay 都以為對方忘了一起煮辣醬的約定；Mitchell 擔心一個提早出獄的人要找他報仇；Lily 跟朋友鬧翻；Manny 和 Phil 為了 Phil 在 Manny 電影裡的演技吵起來。
+S: jay | 撞期的派對 | Jay · Haley · Cameron | 超級盃派對撞上寶寶派對，Cam 和 Jay 還為了辣醬鬧誤會。
+P: Super Bowl Sunday | 超級盃星期天 | Jay 要辦看球派對。 | Everyone eats chicken wings on Super Bowl Sunday. | 超級盃那天大家都吃雞翅。 | 文化：美國最大的電視運動節日。
+P: double-booked | 撞期、重複預約 | 兩個派對同一天。 | Sorry, I'm double-booked that night. | 抱歉，那晚我撞期了。 | 用法：行程、會議室、座位都能用。
+P: chili cook-off | 辣醬比賽 | Cam 和 Jay 約好要煮辣醬。 | He won first place at the chili cook-off. | 他在辣醬比賽拿了第一。 | 文化：美國社區常見的烹飪比賽。
+S: kids | 找 Dylan | Dylan · Haley · 全家 | Dylan 怕融入不了這個家，突然跑掉了。
+P: one of the family | 家裡的一份子 | Dylan 想被大家接納。 | You're one of the family now. | 你現在是我們家的一份子了。 | 用法：歡迎新成員時說。
+P: falling out | 鬧翻 | Lily 跟朋友吵架了。 | They had a falling out over money. | 他們因為錢的事鬧翻了。 | 搭配：have a falling out with someone。
+S: mitch | 出獄的人 | Mitchell · Cameron | Mitchell 擔心一個提早出獄的人要報仇。
+P: watch one's back | 小心提防 | Mitchell 開始疑神疑鬼。 | Watch your back. He's not happy with you. | 小心點，他對你不爽。 | 用法：也可以說 I've got your back 我挺你。
+P: paranoid | 疑神疑鬼 | Mitchell 擔心過頭了。 | You're being paranoid. Nobody is following you. | 你想太多了，沒人在跟蹤你。 | 用法：口語指過度懷疑。
+S: dunphy | Manny 的電影 | Manny · Phil | Manny 嫌 Phil 演得不好，兩人吵起來。
+P: scene-stealer | 搶戲的人 | Phil 在片中太搶戲了。 | The dog was the real scene-stealer in that movie. | 那部電影真正搶戲的是那隻狗。 | 用法：配角表現搶過主角。
+P: take direction | 聽導演指示 | Phil 不太聽 Manny 的指示。 | A good actor knows how to take direction. | 好演員懂得聽導演的指示。 | 用法：也可以說工作上聽從指導。
+P: everyone's a critic | 人人都是評論家 | 大家都有意見。 | Oh, everyone's a critic! | 喔，每個人都是評論家呢！ | 語氣：被批評時半開玩笑地回嘴。
+Q: 你有遇過兩個活動撞期嗎（用 double-booked、Super Bowl Sunday、chili cook-off）
+Q: 你跟朋友鬧翻過嗎（用 falling out、one of the family、paranoid）
+Q: 你被批評時會怎麼回應（用 everyone's a critic、take direction、scene-stealer）
+C: 朋友約你週六吃飯，你說那天撞期了。 | double-booked | Sorry, I'm double-booked.
+C: 你跟新來的工讀生說，你現在是我們店的一份子了。 | one of the family | You're one of the family now.
+C: 室友覺得有人在偷看他手機，你說他想太多了。 | paranoid | You're being paranoid.
+C: 大家都在批評你煮的泡麵，你說人人都是評論家。 | everyone's a critic | Everyone's a critic!
+
+# s10e16 | Red Alert
+L: Haley 不把產前課當一回事，讓 Phil 很擔心，他跟 Luke 忙看屋活動時還失眠了；Claire 打算當上公司執行長，Jay 很不是滋味，最後乾脆退休，讓她接手公司；Mitchell、Cam 和 Manny 找來家族女性（Claire 除外）一起陪 Lily 度過一個人生重要的成長階段。
+S: dunphy | 產前課與失眠 | Haley · Phil · Luke | Haley 不認真上產前課，Phil 擔心到睡不著。
+P: prenatal class | 產前課程 | Haley 要上準媽媽的課。 | We learned how to give a baby a bath in prenatal class. | 我們在產前課學怎麼幫寶寶洗澡。 | 延伸：prenatal vitamins 孕期維他命。
+P: take something seriously | 認真看待 | Haley 一副無所謂的樣子。 | You need to take this seriously. | 你必須認真看待這件事。 | 反義：take something lightly。
+P: insomnia | 失眠 | Phil 擔心到睡不著。 | I've had insomnia since I started the night shift. | 我開始輪夜班後就失眠了。 | 用法：have insomnia。
+P: toss and turn | 輾轉難眠 | Phil 在床上翻來翻去。 | I tossed and turned all night. | 我整晚翻來覆去睡不著。 | 畫面：在床上翻來翻去。
+P: count sheep | 數羊 | Phil 試了各種睡覺的方法。 | I counted sheep, but I still couldn't sleep. | 我數羊還是睡不著。 | 文化：英文也用數羊幫助入睡。
+S: jay | 交棒 | Jay · Claire | Claire 想當執行長，Jay 不爽，最後乾脆退休讓她接手。
+P: hand over the reins | 交出掌控權 | Jay 把公司交給 Claire。 | After 40 years, he handed over the reins to his son. | 四十年後，他把經營權交給兒子。 | 畫面：把馬的韁繩交給別人。
+P: corner office | 角落大辦公室 | 當上執行長就能坐最好的位置。 | One day I'll have the corner office. | 總有一天我會坐上角落那間大辦公室。 | 文化：象徵高層主管的地位。
+P: call it a career | 結束職業生涯 | Jay 決定退休。 | After 20 seasons, the player called it a career. | 打了二十季後，那名球員宣布退休。 | 對比：call it a day 是「今天收工」。
+S: mitch | Lily 的成長 | Mitchell · Cameron · Manny · Lily · 家族女性 | 三人找來女性家人，一起陪 Lily 度過成長的重要時刻。
+P: a rite of passage | 成長的必經過程 | Lily 進入人生新階段。 | Getting your driver's license is a rite of passage. | 考到駕照是成長的必經過程。 | 用法：rite 是儀式。
+P: rally the troops | 召集大家 | 三人把女生們都找來幫忙。 | Let's rally the troops and clean this place up. | 我們召集大家把這裡打掃乾淨。 | 來源：軍隊集合士兵，當兵的你很熟。
+Q: 你失眠的時候都怎麼辦（用 insomnia、toss and turn、count sheep）
+Q: 你覺得當兵是成長的必經過程嗎（用 a rite of passage、rally the troops、take something seriously）
+Q: 你未來想坐上什麼位子（用 corner office、hand over the reins、call it a career）
+C: 站完哨後你整晚翻來覆去睡不著。 | toss and turn | I tossed and turned all night.
+C: 你說當兵是成長的必經過程。 | a rite of passage | The army is a rite of passage.
+C: 社團要搬活動器材，你說去召集大家。 | rally the troops | Let's rally the troops.
+C: 隊友對賽前練習很隨便，你叫他認真一點。 | take something seriously | You need to take this seriously.
+
+# s10e17 | The Wild
+L: Phil、Mitchell 和 Cam 跟著 Jay 參加他每年一次的荒野健行，要找白頭海鵰，也要面對自己的恐懼；Gloria、Claire、Alex 和 Haley 則在家幫雙胞胎布置嬰兒房。
+S: jay | 荒野健行 | Jay · Phil · Mitchell · Cameron | 男人們去找白頭海鵰，也面對各自的恐懼。
+P: bald eagle | 白頭海鵰 | 大家要找美國的國鳥。 | The bald eagle is the national bird of the US. | 白頭海鵰是美國的國鳥。 | 注意：bald 是禿頭，但牠其實是白色羽毛。
+P: annual tradition | 每年的傳統 | Jay 每年都要去健行。 | Going to the beach on New Year's Day is our annual tradition. | 元旦去海邊是我們每年的傳統。 | 延伸：family tradition 家族傳統。
+P: hit the trail | 出發健行 | 一行人上山了。 | Let's hit the trail early before it gets hot. | 趁還沒變熱，早點出發健行吧。 | 用法：hit the road 是出發上路。
+P: face one's fears | 面對恐懼 | 每個人都要克服自己怕的東西。 | You have to face your fears to grow. | 要成長就得面對恐懼。 | 搭配：overcome / conquer one's fears。
+P: out of one's element | 不在自己的舒適圈 | 城市人到了荒野很不自在。 | I'm out of my element in the wild. | 在野外我完全不自在。 | 反義：in one's element 如魚得水。
+S: dunphy | 布置嬰兒房 | Gloria · Claire · Alex · Haley | 女生們在家布置雙胞胎的房間。
+P: nursery | 嬰兒房 | 大家幫寶寶準備房間。 | We painted the nursery light green. | 我們把嬰兒房漆成淺綠色。 | 注意：nursery 也可以指托兒所或苗圃。
+P: baby-proof | 做好防護讓寶寶安全 | 家裡要做好防撞措施。 | We need to baby-proof the stairs. | 我們得在樓梯做好寶寶防護。 | 延伸：childproof 兒童防護。
+P: nesting | 築巢期 | 準媽媽開始忙著布置家。 | She's been cleaning all week. She's nesting. | 她整週都在打掃，這是築巢本能。 | 用法：孕婦生產前想整理家的本能。
+P: some assembly required | 需自行組裝 | 嬰兒床要自己組。 | The box said "some assembly required," but it took me five hours. | 盒子上寫「需自行組裝」，結果我組了五小時。 | 文化：IKEA 家具的經典噩夢。
+P: Allen wrench | 六角扳手 | 組家具一定會用到。 | All you need is an Allen wrench. | 你只需要一支六角扳手。 | 用法：英式說 Allen key。
+Q: 你家有什麼每年的傳統嗎（用 annual tradition、hit the trail、bald eagle）
+Q: 你怎麼面對害怕的事（用 face one's fears、out of one's element、nesting）
+Q: 你組過家具嗎（用 some assembly required、Allen wrench、baby-proof）
+C: 你說過年回外婆家是每年的傳統。 | annual tradition | It's our annual tradition.
+C: 你約朋友早點出發爬山。 | hit the trail | Let's hit the trail early.
+C: 你說你一到海邊就很不自在，你不會游泳。 | out of one's element | I'm out of my element at the beach.
+C: 你說 IKEA 的櫃子要自己組。 | some assembly required | Some assembly required.
+
+# s10e18 | Stand by Your Man
+L: Phil 邀 Luke、Dylan 和 Bill 一起看付費轉播的拳擊賽，想跟他們培養感情；Claire 和 Lily 因為都「不酷」而變親近；Mitchell 忘了結婚紀念日，只好陪 Cam 去跳排舞；Jay 買了電視購物時段推銷他的狗床生意，Gloria 很不喜歡。
+S: dunphy | 男人之夜 · 不酷聯盟 | Phil · Luke · Dylan · Bill · Claire · Lily | Phil 找年輕男生們看比賽；Claire 和 Lily 因為不酷而變親近。
+P: fight night | 拳賽之夜 | Phil 找大家一起看拳擊。 | We're ordering pizza for fight night. | 拳賽之夜我們要叫披薩。 | 用法：拳擊、UFC 轉播的夜晚。
+P: bonding time | 培養感情的時間 | Phil 想跟大家拉近距離。 | Camping is great bonding time for families. | 露營是家人培養感情的好時光。 | 用法：father-son bonding time 父子時間。
+P: uncool | 不酷、遜 | Claire 和 Lily 都不太會跟流行。 | My mom thinks she's cool, but she's so uncool. | 我媽覺得自己很酷，其實很遜。 | 用法：青少年愛用。
+P: dork | 怪咖、書呆子 | 兩人一起承認自己很宅。 | I was a total dork in middle school. | 我國中時是個十足的怪咖。 | 語氣：比 nerd 更可愛、自嘲。
+S: mitch | 排舞 | Mitchell · Cameron | Mitchell 忘了紀念日，只好陪 Cam 去跳排舞彌補。
+P: in hot water | 惹上麻煩 | Mitchell 忘記紀念日，大事不妙。 | I'm in hot water with my girlfriend. | 我惹我女友生氣了。 | 畫面：泡在熱水裡，很難受。
+P: make amends | 彌補 | Mitchell 想辦法補償 Cam。 | He bought her flowers to make amends. | 他買花給她當作補償。 | 用法：比 apologize 更強調行動。
+P: line dancing | 排舞 | Cam 帶 Mitchell 去跳鄉村排舞。 | My aunt goes line dancing every Friday. | 我阿姨每週五去跳排舞。 | 文化：美國鄉村音樂的團體舞。
+S: jay | 電視購物 | Jay · Gloria | Jay 上電視購物賣狗床，Gloria 不太喜歡。
+P: infomercial | 電視購物廣告 | Jay 錄了一支電視購物。 | I almost bought a blender from an infomercial at 2 a.m. | 我凌晨兩點差點跟電視購物買了果汁機。 | 來源：information + commercial。
+P: but wait, there's more | 等等，還有更多 | 電視購物的經典台詞。 | But wait, there's more! Order now and get a second one free! | 等等，還有更多！現在訂購再送一組！ | 文化：電視購物主持人的招牌句。
+P: as seen on TV | 電視上看過的商品 | Jay 的狗床要上電視。 | I bought this mop because it was "as seen on TV." | 我買這支拖把是因為它是電視購物的商品。 | 文化：美國商品包裝上常見標語。
+Q: 你跟家人怎麼培養感情（用 bonding time、fight night、line dancing）
+Q: 你小時候是個怪咖嗎（用 dork、uncool、as seen on TV）
+Q: 你惹別人生氣時會怎麼彌補（用 in hot water、make amends、but wait, there's more）
+C: 你忘了女友生日，跟朋友說你惹上麻煩了。 | in hot water | I'm in hot water with my girlfriend.
+C: 你說你國中時是個十足的怪咖。 | dork | I was a total dork in middle school.
+C: 你買蛋糕給女友當作補償。 | make amends | I bought her a cake to make amends.
+C: 朋友約你週末出去，你說週末是家庭時光。 | bonding time | This weekend is family bonding time.
+
+# s10e19 | Yes-Woman
+L: Claire 想變得更正面，結果不小心同意了 Luke 和她的瑜伽老師 Janice 交往；Jay 和 Manny 很在意別人怎麼看他們；Phil 為 Alex 的畢業準備驚喜；Mitchell 和 Cam 努力找適合自己年紀的嗜好。
+S: dunphy | 正面的 Claire · Alex 的驚喜 | Claire · Luke · Phil · Alex | Claire 什麼都說好，Phil 為 Alex 準備驚喜。
+P: positive vibes | 正能量 | Claire 想散發正面的感覺。 | Only positive vibes today! | 今天只要正能量！ | 用法：vibes 是氛圍、感覺。
+P: go with the flow | 順其自然 | Claire 決定不再管那麼多。 | Don't plan everything. Just go with the flow. | 別什麼都計畫，順其自然吧。 | 同義：roll with it。
+P: look on the bright side | 往好處想 | Claire 什麼都往好的看。 | Look on the bright side. At least it didn't rain. | 往好處想，至少沒下雨。 | 用法：安慰別人時很常用。
+P: glass half full | 樂觀看待 | Claire 努力當樂觀的人。 | She's a glass-half-full kind of person. | 她是個樂觀的人。 | 反義：glass half empty 悲觀。
+P: plan a surprise | 準備驚喜 | Phil 要給 Alex 畢業驚喜。 | We're planning a surprise for Mom's birthday. | 我們在幫媽媽準備生日驚喜。 | 用法：plan a surprise party 驚喜派對。
+S: jay | 在意眼光 | Jay · Manny | 兩人都太在乎別人的看法。
+P: what will people think | 別人會怎麼想 | Jay 和 Manny 很在意眼光。 | You can't live your life worrying about what people think. | 你不能一直擔心別人怎麼想。 | 用法：常用 worry about what people think。
+P: image-conscious | 在意形象的 | 兩人都很注重自己的樣子。 | He's very image-conscious. He never posts bad photos. | 他很注重形象，從不發醜照。 | 用法：conscious 是在意、意識到。
+S: mitch | 找嗜好 | Mitchell · Cameron | 兩人想找適合自己年紀的嗜好。
+P: take up a hobby | 開始一項嗜好 | 兩人想找點新事做。 | I took up painting during the pandemic. | 我在疫情期間開始畫畫。 | 用法：take up + 新活動。
+P: for one's age | 以……的年紀來說 | 兩人在意自己的年紀。 | He's really fit for his age. | 以他的年紀來說，他身材很好。 | 用法：稱讚時要小心，聽起來可能有點冒犯。
+P: keep busy | 讓自己忙碌 | 兩人想找事情做。 | My grandpa keeps busy with gardening. | 我阿公靠種菜讓自己有事做。 | 用法：keep oneself busy。
+Q: 你是樂觀還是悲觀的人（用 glass half full、look on the bright side、positive vibes）
+Q: 你很在意別人的眼光嗎（用 what will people think、image-conscious、go with the flow）
+Q: 你退伍後想開始什麼嗜好（用 take up a hobby、keep busy、plan a surprise）
+C: 去墾丁玩遇到下大雨，你說往好處想至少不用曬太陽。 | look on the bright side | Look on the bright side. At least it's not hot.
+C: 你說你去年開始學吉他當新嗜好。 | take up a hobby | I took up the guitar last year.
+C: 你說你阿嬤以她的年紀來說很健康。 | for one's age | She's really healthy for her age.
+C: 去台南玩沒排行程，你說就順其自然吧。 | go with the flow | Let's just go with the flow.
+
+# s10e20 | Can't Elope
+L: Haley 和 Dylan 想在雙胞胎出生前私奔結婚；Jay 在搞一個新的 Instagram 計畫；Mitchell 和 Cam 得在一場音樂劇和 Haley 的婚禮之間做選擇；最後 Haley 和 Dylan 私下結婚，只有兩人的媽媽、Phil、Frank、Alex 和 Luke 在場。
+S: kids | 私奔結婚 | Haley · Dylan · 家人 | 兩人想在寶寶出生前偷偷結婚。
+P: elope | 私奔結婚 | 兩人想偷偷結婚。 | They eloped in Las Vegas. | 他們跑去拉斯維加斯閃婚了。 | 用法：不辦婚禮、偷偷去登記或結婚。
+P: shotgun wedding | 奉子成婚 | 寶寶快來了才結婚。 | It was a shotgun wedding. The baby came three months later. | 那是奉子成婚，三個月後寶寶就出生了。 | 來源：以前女方父親拿獵槍逼男方娶。
+P: intimate wedding | 小型婚禮 | 只請最親的家人。 | We want an intimate wedding with just close family. | 我們想辦只有親人參加的小型婚禮。 | 用法：intimate 在這裡是「溫馨、私密」。
+P: say I do | 說「我願意」、結婚 | 兩人終於說出我願意。 | They said "I do" on the beach. | 他們在海邊說了「我願意」。 | 用法：I do 是婚禮誓詞的回答。
+P: something borrowed, something blue | 借來的和藍色的東西 | 婚禮的小傳統。 | She wore her grandma's necklace as her something borrowed. | 她戴了奶奶的項鍊當作「借來的東西」。 | 文化：新娘要有舊的、新的、借來的、藍色的東西。
+S: mitch | 兩難 | Mitchell · Cameron | 兩人得在音樂劇和婚禮中選一個。
+P: prior commitment | 已經有約 | 兩人早就答應別的事了。 | I can't make it. I have a prior commitment. | 我沒辦法去，我已經有約了。 | 用法：禮貌拒絕邀請的正式說法。
+P: a tough choice | 艱難的選擇 | 兩邊都不想錯過。 | It was a tough choice, but I chose the job in Taipei. | 那是個艱難的選擇，但我選了台北的工作。 | 同義：a hard decision。
+S: jay | Jay 的 IG | Jay | Jay 開始經營 Instagram 新計畫。
+P: hashtag | 主題標籤 | Jay 學年輕人用標籤。 | Don't forget to use our wedding hashtag! | 別忘了用我們的婚禮標籤！ | 用法：也可以當動詞，hashtag it。
+P: go public | 公開 | Jay 想把作品公開。 | They finally went public with their relationship. | 他們終於公開戀情了。 | 用法：公司上市也是 go public。
+P: followers | 追蹤者 | Jay 想要更多人追蹤。 | She gained 10,000 followers in one week. | 她一週增加了一萬個追蹤者。 | 延伸：follow back 回追。
+Q: 你想辦大婚禮還是小婚禮（用 intimate wedding、elope、say I do）
+Q: 你做過最難的選擇是什麼（用 a tough choice、prior commitment、go public）
+Q: 你有在經營社群嗎（用 followers、hashtag、shotgun wedding）
+C: 朋友約你週六唱歌，你禮貌說已經有約了。 | prior commitment | I have a prior commitment.
+C: 你說選單位是個艱難的選擇。 | a tough choice | It was a tough choice.
+C: 你說你想辦只有家人參加的小型婚禮。 | intimate wedding | I want an intimate wedding.
+C: 你的大學朋友終於在IG公開戀情了。 | go public | He finally went public with his relationship.
+
+# s10e21 | Commencement
+L: Cam 有機會主持一場畢業典禮；Jay 的畢業致詞出了大包，因為大家發現他就是那個害死貓頭鷹的人；Phil 和 Claire 一直誇 Alex，讓 Luke 和 Haley 覺得自己比不上她，而 Alex 自己則很害怕踏入社會；Claire 遇到以前的死對頭；Manny 懷疑 Gloria 在用好處收買大家，好讓全家和樂。
+S: jay | 畢業致詞 | Jay · Cameron | Cam 主持典禮，Jay 的致詞卻出了包。
+P: keynote speaker | 主講人 | Jay 受邀上台致詞。 | The keynote speaker gave an inspiring talk. | 主講人的演講很激勵人心。 | 用法：大會、畢業典禮的主要講者。
+P: in the hot seat | 被拷問、處境為難 | Jay 的秘密被揭穿了。 | The CEO was in the hot seat at the press conference. | 執行長在記者會上被追問得很狼狽。 | 畫面：坐在被質問的椅子上。
+P: the truth comes out | 真相大白 | 大家發現 Jay 做過的事。 | Sooner or later, the truth comes out. | 真相遲早會大白。 | 同義：the truth will out。
+S: dunphy | 比不上 Alex | Luke · Haley · Alex · Phil · Claire | 爸媽一直誇 Alex，Luke 和 Haley 覺得自己很遜；Alex 則對未來很焦慮；Claire 遇到老對手。
+P: feel inferior | 覺得比不上 | Luke 和 Haley 很有壓力。 | I always feel inferior to my brother. | 我總覺得自己比不上我哥。 | 反義：superior。
+P: the pride of the family | 家族的驕傲 | Alex 是爸媽的驕傲。 | My cousin is a doctor. He's the pride of the family. | 我表哥是醫生，是家族的驕傲。 | 用法：帶點被比較的壓力。
+P: pat on the back | 讚許、肯定 | 爸媽一直稱讚 Alex。 | Give yourself a pat on the back. You did great. | 給自己一點肯定，你做得很好。 | 畫面：拍拍肩膀說做得好。
+P: quarter-life crisis | 青年危機 | Alex 對進入社會很焦慮。 | At 25, I had a quarter-life crisis about my career. | 二十五歲時我對職涯有一場青年危機。 | 對比：midlife crisis 中年危機。
+P: bitter rival | 死對頭 | Claire 遇到以前的對手。 | The two companies are bitter rivals. | 這兩家公司是死對頭。 | 用法：bitter 強調恩怨很深。
+S: mitch | 收買大家？ | Manny · Gloria | Manny 懷疑媽媽在收買家人。
+P: grease someone's palm | 塞錢、賄賂 | Manny 懷疑 Gloria 在打通關係。 | He greased the guard's palm to get in. | 他塞錢給警衛才進得去。 | 畫面：在手心抹油，讓事情「順利」。
+P: buy someone off | 收買某人 | Gloria 用好處讓大家開心。 | You can't buy me off with ice cream. | 你不能用冰淇淋收買我。 | 對比：grease someone's palm 偏指塞錢；buy someone off 範圍更廣。
+Q: 你曾經覺得自己比不上誰嗎（用 feel inferior、the pride of the family、pat on the back）
+Q: 你對退伍後的生活焦慮嗎（用 quarter-life crisis、keynote speaker、the truth comes out）
+Q: 你有什麼死對頭嗎（用 bitter rival、in the hot seat、buy someone off）
+C: 你說你表哥是家族的驕傲。 | the pride of the family | My cousin is the pride of the family.
+C: 你說你總覺得自己比不上哥哥。 | feel inferior | I always feel inferior to my brother.
+C: 同梯想用雞排收買你幫他站哨。 | buy someone off | You can't buy me off with fried chicken.
+C: 你跟剛考完會考的弟弟說給自己一點肯定。 | pat on the back | Give yourself a pat on the back.
+
+# s10e22 | A Year of Birthdays
+L: 第十季最終集，雙胞胎快出生了，全家回顧過去一年的生日：Phil 決心學鋼琴；Claire 發現大家都覺得她很緊繃；Cam 和 Lily 的生日都被心碎的 Manny 搞砸，因為他在自己生日那天向 Sherry 求婚被拒絕；最後 Haley 生下一男一女，全家人都聚在一起。
+S: dunphy | 鋼琴與緊繃 | Phil · Claire | Phil 開始學鋼琴，Claire 發現自己在大家眼中很緊繃。
+P: never too late | 永遠不嫌晚 | Phil 這把年紀開始學鋼琴。 | It's never too late to learn something new. | 學新東西永遠不嫌晚。 | 用法：It's never too late to + 動詞。
+P: tightly wound | 很緊繃的 | 大家覺得 Claire 太緊張了。 | She's so tightly wound. She needs a vacation. | 她太緊繃了，需要休個假。 | 畫面：上得太緊的發條。
+P: blow out the candles | 吹蠟燭 | 每個人的生日都有蠟燭。 | Make a wish and blow out the candles! | 許個願然後吹蠟燭！ | 用法：生日必說的一句話。
+S: kids | Manny 的求婚 | Manny · Sherry · Cameron · Lily | Manny 求婚被拒，心碎到搞砸別人的生日。
+P: she said no | 她拒絕了 | Manny 求婚失敗。 | I proposed, and she said no. | 我求婚了，她拒絕了。 | 用法：求婚、邀約失敗時的簡單說法。
+P: wear one's heart on one's sleeve | 把感情寫在臉上 | Manny 一難過大家都知道。 | He wears his heart on his sleeve. You always know how he feels. | 他把感情都寫在臉上，你總是知道他的感受。 | 來源：中世紀騎士把心上人的絲帶綁在袖子上。
+P: a broken heart | 心碎 | Manny 很受傷。 | Time heals a broken heart. | 時間會治癒心碎。 | 延伸：heartbreak 心碎、heartbroken 心碎的。
+S: family | 雙胞胎誕生 | Haley · Dylan · 全家 | Haley 生下一男一女，大家都到齊了。
+P: the big day | 重要的日子 | 寶寶出生的大日子到了。 | Tomorrow's the big day! Are you nervous? | 明天就是大日子了！你緊張嗎？ | 用法：婚禮、考試、生產等重要日子。
+P: it's a girl | 是女生 | 雙胞胎中有一個女孩。 | It's a girl! She's beautiful. | 是女孩！她好漂亮。 | 對比：it's a boy 是男孩。
+P: bundle of joy | 小寶貝 | 新生兒帶來歡樂。 | Congratulations on your new bundle of joy! | 恭喜你們迎來小寶貝！ | 用法：賀卡上很常見的說法。
+P: full circle | 回到原點、圓滿 | 一家人走了十季，又迎來新生命。 | My life has come full circle. I'm back in my hometown. | 我的人生繞了一圈，又回到故鄉。 | 搭配：come full circle。
+Q: 你有什麼想學但覺得太晚的事（用 never too late、tightly wound、blow out the candles）
+Q: 你是會把感情寫在臉上的人嗎（用 wear one's heart on one's sleeve、a broken heart、she said no）
+Q: 你人生中重要的大日子是哪天（用 the big day、bundle of joy、full circle）
+C: 你說學英文永遠不嫌晚。 | never too late | It's never too late to learn English.
+C: 明天要入伍了，朋友說明天就是大日子。 | the big day | Tomorrow's the big day!
+C: 你說你主管太緊繃了，需要休個假。 | tightly wound | He's so tightly wound.
+C: 你說你哥把感情都寫在臉上。 | wear one's heart on one's sleeve | He wears his heart on his sleeve.

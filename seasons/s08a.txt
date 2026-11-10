@@ -1,0 +1,253 @@
+# s08e01 | A Tale of Three Cities
+L: 第八季開場，全家分散三地：Dunphy 一家在紐約多待了幾天，而且每個人都偷偷瞞著其他人；Mitchell 在 Cam 的老家，因為對待昏迷的奶奶的方式被 Cam 的家人埋怨；Gloria 在墨西哥為了辣醬生意跟妹妹吵起來，妹妹 Sonia 還把 Manny「拐」走了。
+S: dunphy | 紐約 | Phil · Claire · 孩子們 | 全家在紐約多留幾天，每個人都偷偷有自己的行程。
+P: the Big Apple | 紐約（暱稱） | 全家在大蘋果玩。 | I've always wanted to visit the Big Apple. | 我一直很想去紐約。 | 用法：紐約市的經典暱稱。
+P: the city that never sleeps | 不夜城 | 紐約永遠熱鬧。 | New York is the city that never sleeps. | 紐約是不夜城。 | 用法：形容大城市夜生活。
+P: extend one's stay | 延長停留 | 大家都想多待幾天。 | We extended our stay for two more nights. | 我們多住了兩晚。 | 用法：飯店、旅行延長。
+P: on the sly | 偷偷地 | 每個人都偷偷瞞著別人。 | He's been smoking on the sly. | 他一直偷偷在抽菸。 | 同義：secretly。
+S: mitch | Cam 的老家 | Mitchell · Cameron · Cam 的家人 | Mitchell 在 Cam 的家族裡格格不入，還被大家埋怨。
+P: bedside manner | 對病人的態度 | Mitchell 探病的方式讓人不滿。 | The doctor has a great bedside manner. | 那位醫生對病人的態度很好。 | 用法：醫生或探病時的態度。
+P: family drama | 家庭紛爭 | Cam 家吵成一團。 | I'm staying out of the family drama. | 我不想捲入家庭紛爭。 | 用法：家族間的爭吵、八卦。
+P: the black sheep of the family | 家族中的異類 | Mitchell 好像成了家族的異類。 | I'm the black sheep of the family. Everyone else is a doctor. | 我是家族裡的異類，其他人都是醫生。 | 畫面：白羊群中的一隻黑羊。
+S: jay | 墨西哥 | Gloria · Sonia · Manny · Jay | Gloria 和妹妹為了辣醬吵架，Sonia 把 Manny 帶走了。
+P: sibling squabble | 兄弟姊妹拌嘴 | 姊妹倆吵個不停。 | It's just a sibling squabble. They'll make up. | 只是兄弟姊妹拌嘴，他們會和好的。 | 對比：sibling rivalry 是長期競爭；squabble 是小吵。
+P: whisk someone away | 迅速帶走某人 | Sonia 一下子把 Manny 帶走了。 | He whisked her away to Paris for her birthday. | 他在她生日時帶她飛去巴黎。 | 用法：常用在浪漫驚喜。
+P: go rogue | 脫隊、自作主張 | Sonia 不照計畫行動。 | The agent went rogue and ignored orders. | 那個探員脫離掌控，不聽命令。 | 用法：不按規則行事。
+Q: 你最想去的大城市（用 the Big Apple、the city that never sleeps、extend one's stay）
+Q: 你家有家庭紛爭嗎（用 family drama、sibling squabble、the black sheep of the family）
+Q: 你曾經偷偷做過什麼事嗎（用 on the sly、go rogue、whisk someone away）
+C: 你說你一直很想去紐約。 | the Big Apple | I've always wanted to visit the Big Apple.
+C: 你說你是家裡的異類，大家都念醫科只有你不是。 | the black sheep of the family | I'm the black sheep of the family.
+C: 組員不照報告分工自己亂改，你說他自作主張。 | go rogue | He went rogue.
+C: 你出差去台東，決定多住一晚。 | extend one's stay | I extended my stay one more night.
+
+# s08e02 | A Stereotypical Day
+L: 一戶黑人家庭搬到對面的那天，Jay 剛好裝了監視器，他拼命想證明自己不是種族歧視；Dunphy 一家趁 Alex 生病佔她便宜，結果她決定休學一學期；Lily 說一個跨性別男孩很奇怪，讓 Mitchell 和 Cam 開始反省自己是不是真的那麼開明。
+S: jay | Jay 家 | Jay · Gloria | Jay 很怕被誤會有偏見，結果越做越誇張。
+P: security camera | 監視器 | Jay 剛裝了監視器。 | We installed a security camera at the front door. | 我們在前門裝了監視器。 | 延伸：CCTV 閉路電視。
+P: stereotype | 刻板印象 | Jay 擔心自己被當成有偏見。 | Not all engineers are nerds. That's a stereotype. | 不是所有工程師都是宅男，那是刻板印象。 | 用法：名詞和動詞都可以。
+P: unconscious bias | 無意識的偏見 | 每個人都可能有自己沒察覺的偏見。 | We all have some unconscious bias. | 我們都有一些無意識的偏見。 | 用法：職場、社會議題常見。
+P: overcompensate | 矯枉過正 | Jay 為了證明自己反而做過頭。 | He talks loudly to overcompensate for being shy. | 他講話很大聲來掩飾害羞，有點矯枉過正。 | 用法：過度彌補某種不足。
+P: politically correct | 政治正確 | Jay 很怕講錯話。 | He's always trying to be politically correct. | 他總是努力保持政治正確。 | 縮寫：PC。
+S: dunphy | Dunphy 家 | Alex · Phil · Claire · 全家 | Alex 生病在家，家人卻一直找她幫忙。
+P: nurse someone back to health | 照顧某人直到康復 | 家人應該好好照顧 Alex。 | My mom nursed me back to health after the surgery. | 手術後我媽細心照顧我直到康復。 | 用法：照顧病人。
+P: take a semester off | 休學一學期 | Alex 決定先休學。 | I'm taking a semester off to work. | 我要休學一學期去工作。 | 用法：大學生暫停學業。
+S: mitch | Mitchell 家 | Mitchell · Cameron · Lily | Lily 說錯話，兩人開始反省自己的教育方式。
+P: practice what you preach | 以身作則、言行一致 | 兩人發現自己也沒做到。 | You tell me to exercise, but you don't. Practice what you preach! | 你叫我運動但你自己不運動，言行一致好嗎！ | 用法：批評說一套做一套的人。
+P: teachable moment | 機會教育 | 兩人把這件事當機會教育。 | When my son lied, it became a teachable moment. | 我兒子說謊時，正好成了機會教育。 | 用法：適合教孩子的時刻。
+P: be inclusive | 有包容性 | 兩人希望 Lily 能接納不同的人。 | Our school tries to be inclusive of all students. | 我們學校努力包容所有學生。 | 名詞：inclusion 包容。
+Q: 你遇過刻板印象嗎（用 stereotype、unconscious bias、politically correct）
+Q: 你曾經休學或暫停過什麼嗎（用 take a semester off、nurse someone back to health、overcompensate）
+Q: 你爸媽給過你什麼機會教育（用 teachable moment、practice what you preach、be inclusive）
+C: 別人說台南人都很愛吃甜，你說那是刻板印象。 | stereotype | That's a stereotype.
+C: 你爸叫你戒菸但他自己也抽，你叫他言行一致。 | practice what you preach | Practice what you preach, Dad.
+C: 你跟朋友說你要休學一學期去打工。 | take a semester off | I'm taking a semester off.
+C: 你說你家門口裝了監視器。 | security camera | We installed a security camera.
+
+# s08e03 | Blindsided
+L: Luke 和 Manny 競選學生會長，Claire 幫 Luke 操盤，Jay 和 Gloria 挺 Manny；Haley 想開自己的公司，Phil 介紹一位怪咖行銷專家給她；Cam 沒問過 Mitchell 就讓他球隊的明星球員住進家裡。
+S: kids | 學生會選舉 | Luke · Manny · Claire · Jay · Gloria | 兩個男孩搶當學生會長，兩邊家長都下場助選。
+P: student council | 學生會 | Luke 和 Manny 要選學生會長。 | I was the president of the student council in high school. | 我高中時是學生會長。 | 用法：學生自治組織。
+P: campaign manager | 競選總幹事 | Claire 負責 Luke 的選戰。 | My friend was my campaign manager. | 我朋友是我的競選總幹事。 | 用法：選舉中負責操盤的人。
+P: smear campaign | 抹黑攻擊 | 選戰越打越髒。 | The other side started a smear campaign. | 對手發動了抹黑攻擊。 | 用法：散播負面消息攻擊對手。
+P: play dirty | 耍手段、玩陰的 | 有人開始不擇手段。 | If they play dirty, we'll lose. | 如果他們玩陰的，我們會輸。 | 反義：play fair 公平競爭。
+P: blindside | 突襲、措手不及 | 選戰中被對方突襲。 | The news blindsided everyone. | 這個消息讓大家措手不及。 | 畫面：從看不到的那一側被撞到。
+S: dunphy | Haley 的創業夢 | Haley · Phil · 行銷專家 | Haley 想開公司，Phil 介紹一位很怪的行銷專家。
+P: personal brand | 個人品牌 | 專家教 Haley 經營自己。 | Instagram is great for building your personal brand. | IG 很適合經營個人品牌。 | 用法：網紅、自媒體常說。
+P: eccentric | 古怪的 | 行銷專家很特別。 | My art teacher was a little eccentric. | 我的美術老師有點古怪。 | 用法：比 weird 有禮貌一點。
+P: think big | 胸懷大志 | 專家要 Haley 想大一點。 | Don't just open a shop. Think big! | 別只開一家店，要想大一點！ | 用法：鼓勵人目標遠大。
+S: mitch | Mitchell 家 | Cameron · Mitchell · 球員 | Cam 沒先問 Mitchell，就讓明星球員搬進來住。
+P: star player | 明星球員 | 球隊的王牌住進來了。 | He's the star player on our basketball team. | 他是我們籃球隊的明星球員。 | 用法：表現最好的隊員。
+P: it's easier to ask for forgiveness than permission | 先斬後奏 | Cam 先做再說。 | I didn't ask my boss. It's easier to ask for forgiveness than permission. | 我沒問老闆，先斬後奏比較快。 | 用法：先做了再道歉。
+Q: 你參加過學生會或選舉嗎（用 student council、campaign manager、play dirty）
+Q: 如果你要創業，你會怎麼經營（用 personal brand、think big、eccentric）
+Q: 你做過先斬後奏的事嗎（用 it's easier to ask for forgiveness than permission、blindside、star player）
+C: 你說你高中是學生會的。 | student council | I was on the student council.
+C: 主管突然宣布要裁員，讓大家措手不及。 | blindside | The news blindsided everyone.
+C: 你鼓勵朋友創業要想大一點。 | think big | Think big!
+C: 你沒問媽媽就把狗帶回家，說先斬後奏。 | it's easier to ask for forgiveness than permission | It's easier to ask for forgiveness than permission.
+
+# s08e04 | Weathering Heights
+L: Phil 在地方新聞的房地產單元遇到他崇拜的氣象主播，卻後悔介紹他給 Haley 認識；Jay 幫 Manny 拍茱莉亞音樂學院的申請影片；Lily 想辦法趕走住在家裡的足球員房客。
+S: dunphy | Phil 和氣象主播 | Phil · Haley · 氣象主播 | Phil 見到偶像很開心，沒想到偶像對 Haley 有意思。
+P: meet one's idol | 見到偶像 | Phil 終於見到崇拜的人。 | I finally met my idol at the fan meeting. | 我終於在見面會上見到偶像。 | 用法：見到喜歡的明星。
+P: weather forecast | 天氣預報 | 偶像是氣象主播。 | What's the weather forecast for tomorrow? | 明天的天氣預報怎麼說？ | 延伸：forecaster 氣象播報員。
+P: a chance of rain | 有下雨的機會 | 天氣預報常用語。 | There's a 70% chance of rain this afternoon. | 今天下午有七成機率下雨。 | 用法：降雨機率的說法。
+P: ladies' man | 很受女生歡迎的男人 | 主播很會撩女生。 | He thinks he's a ladies' man. | 他自以為很受女生歡迎。 | 用法：有時帶點諷刺。
+P: should have known better | 早該知道 | Phil 後悔了。 | I should have known better than to trust him. | 我早該知道不能信任他。 | 用法：事後懊悔。
+S: jay | Manny 的申請影片 | Jay · Manny | Jay 幫 Manny 拍申請名校的影片。
+P: audition tape | 試鏡影片 | Manny 要錄申請影片。 | She sent an audition tape to the TV show. | 她寄了試鏡影片給那個節目。 | 用法：申請表演工作的錄影。
+P: dream big | 勇敢做夢 | Manny 有遠大的夢想。 | Dream big and work hard. | 勇敢做夢，努力工作。 | 用法：鼓勵人的話。
+S: mitch | Lily 和房客 | Lily · Cameron · Mitchell | Lily 不喜歡家裡多一個人，想把他趕走。
+P: drop hints | 暗示 | Lily 一直暗示房客該走了。 | I've been dropping hints about what I want for my birthday. | 我一直在暗示我生日想要什麼。 | 用法：不直接說，用暗示。
+P: get the message | 懂了、意會 | 房客到底懂了沒？ | I didn't reply for three days. I think he got the message. | 我三天沒回他，我想他懂了。 | 用法：理解對方的暗示。
+P: make yourself scarce | 消失一下、迴避 | Lily 希望房客自己離開。 | My parents are fighting. I'll make myself scarce. | 我爸媽在吵架，我先迴避一下。 | 用法：識相地離開。
+Q: 你見過偶像嗎（用 meet one's idol、ladies' man、should have known better）
+Q: 你的夢想是什麼（用 dream big、audition tape、weather forecast）
+Q: 你會用暗示表達想法嗎（用 drop hints、get the message、make yourself scarce）
+C: 週末要去爬合歡山，你問朋友明天天氣預報怎麼說。 | weather forecast | What's the weather forecast for tomorrow?
+C: 你一直暗示女朋友你想要新耳機。 | drop hints | I've been dropping hints.
+C: 學長心情不好，你決定先迴避一下。 | make yourself scarce | I'll make myself scarce.
+C: 你借錢給大學室友結果沒還，說早該知道。 | should have known better | I should have known better.
+
+# s08e05 | Halloween IV: Revenge of Rod Skyhook
+L: Luke 的萬聖節派對眼看就要冷場，Dunphy 家只好請出 Phil 的另一個分身「Rod Skyhook」、加點宣傳，還有大人坐鎮；Cam 跟他的萬聖節宿敵正面對決；Jay 發現 Manny 要去參加死對頭的派對，便拉著 Manny 一起報復。
+S: dunphy | Luke 的派對 | Luke · Phil · Claire | 派對快冷場了，全家出手救援。
+P: flop | 失敗、冷場 | 派對差點失敗。 | The movie was a total flop. | 那部電影徹底失敗。 | 用法：表演、商品、活動失敗。
+P: hype up | 炒熱、大肆宣傳 | 全家幫忙宣傳派對。 | They hyped up the new phone for months. | 他們幾個月來一直大肆宣傳新手機。 | 延伸：hype 炒作、熱度。
+P: adult supervision | 大人監督 | 派對需要大人在場。 | Kids under 12 need adult supervision. | 12 歲以下兒童需要大人陪同。 | 用法：活動規定常見。
+P: buzzkill | 掃興的人或事 | 大人在場有點掃興。 | Don't be a buzzkill. Let's stay out late. | 別掃興，我們晚點回家吧。 | 同義：party pooper。
+P: jump scare | 突然的驚嚇 | 萬聖節派對的必備元素。 | That movie has so many jump scares. | 那部電影有好多突然嚇人的地方。 | 用法：恐怖片的手法。
+P: costume contest | 變裝比賽 | 派對上大家比誰扮得最好。 | I won first place in the costume contest. | 我在變裝比賽得了第一名。 | 用法：萬聖節常見活動。
+S: mitch | Cam 的宿敵 | Cameron · Mitchell | Cam 每年萬聖節都跟一個人較勁。
+P: nemesis | 宿敵 | Cam 的萬聖節死對頭。 | Homework is my nemesis. | 作業是我的宿敵。 | 對比：arch-enemy 意思接近，nemesis 更有命中注定的味道。
+S: jay | Jay 和 Manny | Jay · Manny | Jay 拉 Manny 一起去報復老對手。
+P: get even | 報復、扳平 | Jay 想討回公道。 | He tricked me, but I'll get even. | 他騙了我，但我會報復回去。 | 對比：get someone back 意思接近。
+P: petty | 小心眼、計較小事 | Jay 的報復有點小心眼。 | Don't be so petty. It was just a joke. | 別那麼小心眼，只是個玩笑。 | 用法：為小事斤斤計較。
+P: sweet revenge | 甜美的復仇 | 報復成功的快感。 | Beating him in the final was sweet revenge. | 在決賽打敗他真是甜美的復仇。 | 用法：報仇成功的痛快。
+Q: 你辦過或參加過冷場的派對嗎（用 flop、buzzkill、hype up）
+Q: 你最怕看什麼樣的恐怖片（用 jump scare、costume contest、adult supervision）
+Q: 你曾經想報復過誰嗎（用 get even、petty、sweet revenge）
+C: 你說那部電影票房慘敗。 | flop | It was a total flop.
+C: 朋友為了一塊錢跟你計較，你說他小心眼。 | petty | Don't be so petty.
+C: 你在比賽打敗上次贏你的人，說報仇成功。 | sweet revenge | Sweet revenge!
+C: 你說英文是你的宿敵。 | nemesis | English is my nemesis.
+
+# s08e06 | Grab It
+L: Jay 最愛的鄉村俱樂部是他的避風港，Phil 卻想加入；Claire 擔心自己影響了 Alex 的選擇；Gloria 想逃離兩個兒子喘口氣；Cam 沒跟 Mitchell 說清楚他的舞台劇內容，結果讓 Mitchell 成了焦點。
+S: jay | Jay 的俱樂部 | Jay · Phil | Jay 的私人天堂可能要被 Phil 入侵了。
+P: country club | 鄉村俱樂部 | Jay 的私人避風港。 | My uncle plays golf at the country club every Sunday. | 我叔叔每週日都去鄉村俱樂部打高爾夫。 | 文化：美國有會員制的高級俱樂部。
+P: members only | 會員限定 | 不是誰都能進。 | Sorry, this area is members only. | 抱歉，這區只限會員。 | 用法：限定會員使用。
+P: my happy place | 讓我開心的地方 | 俱樂部是 Jay 的快樂天堂。 | The beach is my happy place. | 海邊是讓我最快樂的地方。 | 用法：讓自己放鬆、開心的地方。
+P: tee time | 開球時間 | 打高爾夫要預約時段。 | I booked a tee time for 8 a.m. | 我訂了早上八點的開球時間。 | 用法：高爾夫球場的預約時間。
+S: dunphy | Claire 和 Alex | Claire · Alex | Claire 擔心 Alex 太像自己。
+P: mini-me | 縮小版的自己 | Alex 越來越像 Claire。 | My daughter is my mini-me. She even talks like me. | 我女兒是縮小版的我，連說話都像我。 | 來源：電影《王牌大賤諜》。
+P: get away from it all | 遠離一切 | Gloria 想好好喘口氣。 | I want to go to the mountains and get away from it all. | 我想去山上遠離一切。 | 用法：逃離日常壓力。
+S: mitch | Cam 的舞台劇 | Cameron · Mitchell | Cam 的劇讓 Mitchell 意外成了焦點。
+P: in the spotlight | 成為焦點 | Mitchell 突然被大家注意。 | She doesn't like being in the spotlight. | 她不喜歡成為焦點。 | 畫面：舞台聚光燈打在身上。
+P: stage fright | 怯場 | Mitchell 很怕上台。 | I get stage fright before every speech. | 我每次演講前都會怯場。 | 用法：上台前的緊張。
+P: read the fine print | 看清楚小字、細節 | Mitchell 應該先問清楚。 | Always read the fine print before you sign. | 簽名前一定要看清楚小字。 | 用法：合約、條款的細節。
+P: the whole story | 事情的全貌 | Cam 沒說出全部。 | You didn't tell me the whole story. | 你沒告訴我事情的全貌。 | 用法：只聽到一部分時。
+Q: 你的快樂天堂是哪裡（用 my happy place、get away from it all、members only）
+Q: 你會怯場嗎（用 stage fright、in the spotlight、the whole story）
+Q: 你簽約前會仔細看嗎（用 read the fine print、mini-me、tee time）
+C: 你說你的快樂天堂是營區的福利社。 | my happy place | The PX is my happy place.
+C: 你說你上台前都會怯場。 | stage fright | I get stage fright.
+C: 簽手機合約前，朋友叫你看清楚小字。 | read the fine print | Read the fine print first.
+C: 朋友只說了一半，你說他沒講全部。 | the whole story | You didn't tell me the whole story.
+
+# s08e07 | Thanksgiving Jamboree
+L: Cam 不惜血本辦感恩節大派對；Haley 跟 Phil 說她想跟新男友過節；Jay 努力控制自己的血壓；Alex 和 Dwight 越走越近。
+S: mitch | Cam 的感恩節 | Cameron · Mitchell | Cam 把感恩節辦得超級盛大。
+P: spare no expense | 不惜花費 | Cam 卯起來辦派對。 | They spared no expense on their wedding. | 他們的婚禮不惜血本。 | 用法：花很多錢做一件事。
+P: potluck | 每人帶一道菜的聚餐 | 大家各帶一道菜。 | Our unit is having a potluck this Friday. | 我們連上這週五要辦百樂餐。 | 文化：美國常見的聚餐形式。
+P: say grace | 飯前禱告 | 開動前要禱告。 | My grandma always says grace before dinner. | 我奶奶晚餐前總會禱告。 | 文化：西方家庭的餐前感恩。
+P: thankful for | 感謝、感恩 | 感恩節就是要說出感謝。 | I'm thankful for my family and friends. | 我很感謝我的家人和朋友。 | 用法：表達感恩。
+P: second helping | 再來一份 | 大家都吃了第二輪。 | Can I have a second helping of rice? | 我可以再來一碗飯嗎？ | 延伸：helping 一份食物。
+S: jay | Jay 家 | Jay · Gloria | Jay 要控制血壓，得放輕鬆一點。
+P: blood pressure | 血壓 | Jay 的血壓太高。 | My dad has to watch his blood pressure. | 我爸得注意他的血壓。 | 延伸：high blood pressure 高血壓。
+P: doctor's orders | 醫生的指示 | Jay 被醫生要求放輕鬆。 | No more salty food. Doctor's orders. | 不能再吃鹹的了，醫生交代的。 | 用法：玩笑地說「這是規定」。
+P: take it down a notch | 降低一點、別那麼激動 | Jay 要冷靜一點。 | You're yelling. Take it down a notch. | 你在大吼，冷靜一點。 | 用法：叫人別太激動或太誇張。
+S: dunphy | Dunphy 家 | Haley · Phil · Alex | Haley 想跟男友過節；Alex 和 Dwight 慢慢靠近。
+P: bring someone home | 帶某人回家見家人 | Haley 的新男友。 | She's bringing her boyfriend home for New Year. | 她過年要帶男朋友回家。 | 用法：帶交往對象見家人。
+P: slowly but surely | 慢慢地但確實地 | 兩人的感情慢慢加溫。 | Slowly but surely, my English is improving. | 我的英文慢慢地但確實在進步。 | 用法：穩定前進。
+Q: 你家過節會怎麼吃（用 potluck、second helping、spare no expense）
+Q: 你最感謝的人或事（用 thankful for、say grace、bring someone home）
+Q: 你家人有在注意健康嗎（用 blood pressure、doctor's orders、take it down a notch）
+C: 公司辦百樂餐，每人帶一道菜。 | potluck | We're having a potluck at work.
+C: 吃中秋烤肉，你說要再來一份。 | second helping | Can I have a second helping?
+C: 你跟朋友說你的英文慢慢在進步。 | slowly but surely | Slowly but surely, I'm getting better.
+C: 你爸說不能吃宵夜，這是醫生交代的。 | doctor's orders | No late-night snacks. Doctor's orders.
+
+# s08e08 | The Alliance
+L: Phil、Cam 和 Gloria 這三位「嫁進來的人」偷偷開會，覺得自己在 Pritchett 家族裡常被排擠，決定結盟；Luke 去 Jay 的俱樂部打工；Haley 幫忙照顧一個小女孩。
+S: dunphy | 姻親聯盟 | Phil · Cameron · Gloria | 三個姻親覺得自己被 Pritchett 家的人小看，決定聯手。
+P: form an alliance | 結盟 | 三人組成同盟。 | The two small parties formed an alliance. | 兩個小黨結盟了。 | 延伸：alliance 聯盟。
+P: us versus them | 我們對抗他們 | 姻親對抗原生家族。 | It always feels like us versus them at family dinners. | 家庭聚餐時總覺得是我們對抗他們。 | 用法：形容兩派對立。
+P: gang up on | 聯手對付某人 | 大家都愛聯手吐槽姻親。 | My brothers always gang up on me. | 我兄弟們總是聯手對付我。 | 用法：多人對付一人。
+P: blood is thicker than water | 血濃於水 | 原生家人總是團結。 | In the end, blood is thicker than water. | 到頭來還是血濃於水。 | 用法：家人關係最重要。
+P: secret meeting | 秘密會議 | 三人偷偷開會。 | They held a secret meeting in the garage. | 他們在車庫開秘密會議。 | 用法：不公開的聚會。
+P: safety in numbers | 人多勢眾比較安全 | 三人團結比較有力量。 | Let's walk together. There's safety in numbers. | 我們一起走吧，人多比較安全。 | 用法：團體行動比較安全。
+S: jay | Luke 打工 | Luke · Jay | Luke 在俱樂部從基層做起。
+P: work one's way up | 從基層一路往上爬 | Luke 從最基本的工作開始。 | He started as a waiter and worked his way up to manager. | 他從服務生做起，一路升到經理。 | 用法：靠努力升遷。
+P: earn one's keep | 賺取自己的生活費、做自己該做的 | Luke 得自己努力。 | If you live here, you have to earn your keep. | 你住這裡就得出點力。 | 用法：付出勞力換取住宿或待遇。
+P: entry-level | 初階的、入門的 | Luke 做的是最基本的工作。 | I'm looking for an entry-level job in marketing. | 我在找行銷的初階工作。 | 用法：新鮮人職位。
+S: mitch | Haley 照顧小孩 | Haley | Haley 負責照顧一個小女孩。
+P: be responsible for | 對…負責 | Haley 要對孩子負責。 | You're responsible for the keys tonight. | 今晚鑰匙由你負責。 | 名詞：responsibility 責任。
+Q: 你曾經跟人結盟對抗別人嗎（用 form an alliance、gang up on、safety in numbers）
+Q: 你覺得血濃於水嗎（用 blood is thicker than water、us versus them、secret meeting）
+Q: 你第一份工作從哪裡開始（用 work one's way up、entry-level、earn one's keep）
+C: 你說你哥和你姊總是聯手對付你。 | gang up on | They always gang up on me.
+C: 晚上走夜路，你說大家一起走比較安全。 | safety in numbers | There's safety in numbers.
+C: 你說畢業後想先找初階的工作。 | entry-level | I'm looking for an entry-level job.
+C: 店長說今晚關店的鑰匙由你負責。 | be responsible for | You're responsible for the keys tonight.
+
+# s08e09 | Snow Ball
+L: Luke 和 Manny 負責籌辦學校的冬季舞會；Claire 和 Gloria 想安撫一位情緒激動的家長會媽媽；Phil 想跟 Jay 多相處；Mitchell 則跟一個小霸王正面對質。
+S: kids | 冬季舞會 | Luke · Manny | 兩個男孩負責舞會的大小事。
+P: slow song | 慢歌 | 舞會最緊張的時刻。 | When the slow song came on, he asked me to dance. | 慢歌一放，他就邀我跳舞。 | 對比：slow dance 是慢舞。
+P: decorations committee | 佈置組 | 舞會需要有人負責佈置。 | I'm on the decorations committee for the party. | 我是派對佈置組的。 | 延伸：committee 委員會。
+S: dunphy | Claire 和 Gloria | Claire · Gloria · 家長會媽媽 | 兩人想安撫一位非常激動的家長。
+P: PTA | 家長教師會 | 家長會的媽媽很難搞。 | My mom is very active in the PTA. | 我媽在家長會很活躍。 | 全稱：Parent-Teacher Association。
+P: high-strung | 神經緊繃的 | 那位媽媽很容易激動。 | She's a little high-strung before exams. | 她考試前有點神經緊繃。 | 畫面：弦繃得很緊。
+P: smooth things over | 緩和、擺平 | 兩人想把事情擺平。 | I bought her flowers to smooth things over. | 我買花給她想緩和一下。 | 用法：化解衝突。
+S: jay | Phil 和 Jay | Phil · Jay | Phil 想跟岳父培養感情。
+P: male bonding | 男人之間的情誼 | Phil 想跟 Jay 培養兄弟情。 | Fishing trips are great for male bonding. | 釣魚之旅很適合培養男人之間的感情。 | 用法：男生之間的交流時光。
+P: father-in-law | 岳父、公公 | Jay 是 Phil 的岳父。 | My father-in-law is a great cook. | 我岳父很會煮菜。 | 延伸：mother-in-law 岳母、婆婆。
+S: mitch | Mitchell 和小霸王 | Mitchell | Mitchell 決定面對一個欺負人的傢伙。
+P: confront | 正面對質 | Mitchell 決定當面說清楚。 | I confronted him about the money he owed me. | 我當面跟他講他欠我錢的事。 | 用法：直接面對問題或人。
+P: pick on someone your own size | 去欺負跟你一樣大的人 | Mitchell 要霸凌者別欺負弱小。 | Leave him alone. Pick on someone your own size! | 放過他，有種去找跟你一樣大的！ | 用法：叫霸凌者別欺負弱小。
+P: playground bully | 遊樂場小霸王 | 經典的欺負人角色。 | There was a playground bully who took our lunch money. | 有個遊樂場小霸王會搶我們的午餐錢。 | 延伸：bully 霸凌者。
+Q: 你參加過學校舞會或活動籌備嗎（用 decorations committee、slow song、PTA）
+Q: 你曾經當面跟人對質嗎（用 confront、pick on someone your own size、playground bully）
+Q: 你跟長輩怎麼培養感情（用 male bonding、father-in-law、smooth things over）
+C: 你跟一直不還錢的朋友當面說清楚。 | confront | I confronted him about it.
+C: 你和女朋友吵架，買宵夜想緩和一下。 | smooth things over | I bought her snacks to smooth things over.
+C: 你說你考試前會神經緊繃。 | high-strung | I get high-strung before exams.
+C: 你叫在球場欺負小學生的高中生去找跟他一樣大的。 | pick on someone your own size | Pick on someone your own size!
+
+# s08e10 | Ringmaster Keifth
+L: Cam 跟前男友 Keifth 重逢，對方以前是馬戲團主持人，現在當飯店禮賓；Phil 發現爸爸在跟他小時候的保母約會；Jay 和 Gloria 要為 Joe 選一位萬一他們出事時的監護人。
+S: mitch | Cam 的前男友 | Cameron · Keifth · Mitchell | Cam 遇到前男友，過去的回憶全回來了。
+P: run away with the circus | 離家去追夢（逃家跟馬戲團走） | Cam 年輕時的瘋狂往事。 | When I was a kid, I wanted to run away with the circus. | 我小時候很想逃家跟馬戲團走。 | 用法：比喻拋下一切去冒險。
+P: ringmaster | 馬戲團主持人 | Keifth 以前的工作。 | The ringmaster introduced each act. | 馬戲團主持人介紹每個節目。 | 用法：也比喻主導全場的人。
+P: concierge | 飯店禮賓人員 | Keifth 現在的工作。 | Ask the concierge for restaurant recommendations. | 問一下禮賓人員有什麼推薦的餐廳。 | 用法：飯店的服務人員。
+P: the past catches up with you | 過去找上門來 | 舊情人出現了。 | You can't run forever. The past catches up with you. | 你不能一直逃，過去總會找上門。 | 用法：以前的事再度出現。
+S: dunphy | Phil 和 Frank | Phil · Frank | Phil 發現爸爸的新女友竟然是自己小時候的保母。
+P: age is just a number | 年齡只是數字 | Frank 談戀愛不在乎年齡。 | My grandma started skydiving at 70. Age is just a number! | 我奶奶 70 歲開始玩跳傘，年齡只是數字！ | 用法：鼓勵人不要被年紀限制。
+P: rob the cradle | 老牛吃嫩草 | 年齡差距讓人議論。 | He's dating a 20-year-old? He's robbing the cradle. | 他在跟 20 歲的人交往？老牛吃嫩草。 | 畫面：從搖籃裡搶人。
+P: creep someone out | 讓人毛毛的 | 這件事讓 Phil 有點不舒服。 | That doll creeps me out. | 那個娃娃讓我毛毛的。 | 對比：give someone the creeps 意思相同。
+S: jay | Jay 家 | Jay · Gloria · Joe | 兩人要決定萬一出事，誰來照顧 Joe。
+P: godparent | 教父母、乾爹乾媽 | 兩人在想誰可以當 Joe 的教父母。 | My uncle is my godparent. | 我叔叔是我的教父。 | 延伸：godfather 教父、godmother 教母。
+P: trust someone with | 把…託付給某人 | 要選一個能託付的人。 | I trust you with my life. | 我可以把命交給你。 | 用法：信任某人照顧某物。
+P: pros and cons | 優缺點 | 兩人列出每個人選的優缺點。 | Let's make a list of pros and cons. | 我們來列一張優缺點清單吧。 | 用法：做決定前的分析。
+Q: 你小時候有想逃家去冒險嗎（用 run away with the circus、ringmaster、the past catches up with you）
+Q: 你覺得年齡只是數字嗎（用 age is just a number、rob the cradle、creep someone out）
+Q: 你會把重要的東西託付給誰（用 trust someone with、godparent、pros and cons）
+C: 你說你奶奶七十歲還去登山，年齡只是數字。 | age is just a number | Age is just a number!
+C: 你在猶豫要不要轉職，決定列出優缺點。 | pros and cons | I'll make a list of pros and cons.
+C: 你說你可以把命交給你的好兄弟。 | trust someone with | I trust him with my life.
+C: 你問飯店禮賓人員附近有什麼好吃的。 | concierge | Let's ask the concierge.
+
+# s08e11 | Sarge & Pea
+L: Cam 帶著姪女們，向一位破壞 Lily 舞蹈表演的媽媽展開報復；Phil 和 Gloria 對 Luke 和 Manny 的大學計畫意見不同；Mitchell、Claire 和 Jay 在一位親戚的婚禮上遇到 Dede。
+S: mitch | Cam 的報復行動 | Cameron · 姪女們 · Lily | Cam 像教官一樣帶著姪女們展開報復。
+P: drill sergeant | 教育班長、魔鬼教官 | Cam 化身嚴格教官。 | My mom acts like a drill sergeant in the morning. | 我媽早上像個魔鬼教官。 | 用法：當兵的你一定很熟悉這種人。
+P: prank war | 惡作劇大戰 | 雙方互相整來整去。 | My roommates and I had a prank war all week. | 我和室友惡作劇大戰了一整週。 | 用法：互相惡整。
+P: payback | 報復、回敬 | Cam 要討回公道。 | You ate my pudding? This is payback! | 你吃了我的布丁？這是報應！ | 用法：Payback time! 報仇時間到！
+S: dunphy | 大學計畫 | Phil · Gloria · Luke · Manny | 兩個家長對孩子要讀什麼大學意見分歧。
+P: college application | 大學申請 | 兩個男孩要申請大學了。 | I'm working on my college applications this month. | 我這個月在準備大學申請。 | 用法：美國大學申請流程。
+P: safety school | 保底學校 | 一定要有保底的學校。 | Apply to at least one safety school. | 至少要申請一間保底學校。 | 對比：reach school 夢幻學校。
+P: reach school | 衝刺學校、夢幻學校 | 想挑戰的學校。 | Harvard is my reach school. | 哈佛是我想挑戰的學校。 | 用法：錄取機會較低的學校。
+P: keep one's options open | 保留選擇的空間 | 別太早決定。 | I'm not choosing yet. I'm keeping my options open. | 我還不想決定，先保留選擇。 | 用法：不急著做決定。
+S: jay | 親戚的婚禮 | Mitchell · Claire · Jay · Dede | 三人在婚禮上遇到 Dede，氣氛微妙。
+P: family reunion | 家族聚會 | 婚禮變成家族大團圓。 | We have a big family reunion every New Year. | 我們每年過年都有家族大團圓。 | 用法：親戚久別重逢。
+P: awkward family photo | 尷尬的家族照 | 婚禮合照很尷尬。 | Our awkward family photo is still on the fridge. | 我們那張尷尬的全家福還貼在冰箱上。 | 用法：網路上很流行分享這類照片。
+P: it's been a while | 好一陣子沒見了 | 大家很久沒見。 | Hey, it's been a while! How are you? | 嘿，好一陣子沒見了！你好嗎？ | 對比：long time no see 更口語。
+Q: 你遇過最嚴格的班長或教官（用 drill sergeant、payback、prank war）
+Q: 你申請學校時怎麼選（用 safety school、reach school、keep one's options open）
+Q: 你家的家族聚會（用 family reunion、awkward family photo、it's been a while）
+C: 你說你的班長像魔鬼教官。 | drill sergeant | He's like a drill sergeant.
+C: 室友整你，你說報仇時間到了。 | payback | It's payback time!
+C: 你還不想決定退伍後做什麼，先保留選擇。 | keep one's options open | I'm keeping my options open.
+C: 你在路上遇到國中老師，說好一陣子沒見了。 | it's been a while | It's been a while!
