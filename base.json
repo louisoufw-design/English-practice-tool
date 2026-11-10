@@ -1,0 +1,420 @@
+{
+ "s01e01": {
+  "title": "Pilot",
+  "lede": "第一集用紀錄片手法拍三個看似無關的家庭，結尾才揭曉他們其實是同一個大家族。對白幾乎全是日常家庭吵架、撒嬌、碎念，很適合學美國人平常怎麼講話。",
+  "stories": [
+   {
+    "id": "dunphy",
+    "name": "Dunphy 家",
+    "who": "Phil · Claire · Haley · Alex · Luke",
+    "plot": "Phil 一心想當孩子眼中的酷老爸，Claire 則是什麼都要管的媽媽。大女兒 Haley 帶男友回家讓 Claire 很緊張，Phil 還答應要用 BB 槍「處罰」兒子 Luke。",
+    "items": [
+     {
+      "p": "freak out",
+      "zh": "抓狂、嚇壞、緊張到失控",
+      "scene": "Claire 一聽到女兒要帶男友回家，整個人緊張兮兮。",
+      "en": "Don't freak out, but I think I lost your charger.",
+      "tr": "你先別抓狂，但我好像把你的充電器弄丟了。",
+      "tip": "<b>連音：</b>freak‿out 唸成「frea-kout」。開頭說 Don't freak out, but… 是美國人講壞消息的固定句型。"
+     },
+     {
+      "p": "be grounded",
+      "zh": "被禁足（小孩被罰不准出門）",
+      "scene": "Dunphy 家的父母要用處罰管教三個小孩。",
+      "en": "I got grounded for a whole month in high school.",
+      "tr": "我高中時被禁足了整整一個月。",
+      "tip": "<b>用法：</b>父母說 You're grounded! 小孩事後說 I got grounded."
+     },
+     {
+      "p": "a deal's a deal",
+      "zh": "說好的就要算數",
+      "scene": "Phil 答應過的處罰，就算不想做也得做到。",
+      "en": "You lost the bet, so you're buying dinner. A deal's a deal.",
+      "tr": "你賭輸了，晚餐你請。說好就是說好。",
+      "tip": "<b>語氣：</b>帶點堅持但不兇，朋友之間很常用。"
+     },
+     {
+      "p": "What were you thinking?",
+      "zh": "你在想什麼啊？（責備對方做了蠢事）",
+      "scene": "孩子闖禍後，爸媽忍不住問的那句話。",
+      "en": "You went hiking without water? What were you thinking?",
+      "tr": "你去爬山沒帶水？你到底在想什麼？",
+      "tip": "<b>重音：</b>放在 thinking 上，語調往下壓才有責備感。"
+     },
+     {
+      "p": "no big deal",
+      "zh": "沒什麼大不了",
+      "scene": "Phil 常常想把緊張的場面講得很輕鬆。",
+      "en": "It's no big deal. We can just take the next train.",
+      "tr": "沒什麼大不了，我們搭下一班車就好。",
+      "tip": "<b>回應別人道歉：</b>No big deal. 比 It's OK. 更口語、更隨性。"
+     }
+    ]
+   },
+   {
+    "id": "jay",
+    "name": "Jay 家",
+    "who": "Jay · Gloria · Manny",
+    "plot": "年紀大的 Jay 娶了年輕熱情的 Gloria，還要適應她早熟又浪漫的兒子 Manny。Manny 在商場愛上一個比他大很多的女生，決定當眾告白。",
+    "items": [
+     {
+      "p": "be into someone",
+      "zh": "喜歡某人、對某人有意思",
+      "scene": "Manny 迷上一個大女生，大人們都覺得他想太多。",
+      "en": "I think she's into you. She keeps laughing at your jokes.",
+      "tr": "我覺得她對你有意思，她一直被你的笑話逗笑。",
+      "tip": "<b>也能用在興趣：</b>I'm really into hiking lately. 我最近很迷爬山。"
+     },
+     {
+      "p": "put yourself out there",
+      "zh": "勇敢踏出去、讓自己被看見",
+      "scene": "Manny 鼓起勇氣當眾告白，主動讓對方看見自己。",
+      "en": "If you want to make friends, you have to put yourself out there.",
+      "tr": "想交朋友，你就得主動一點。",
+      "tip": "<b>常見場合：</b>談戀愛、找工作、交朋友時鼓勵人。"
+     },
+     {
+      "p": "I get it",
+      "zh": "我懂、我了解",
+      "scene": "Jay 嘴上說懂，其實常常聽不太進去 Gloria 的話。",
+      "en": "I get it. You're tired, so let's talk tomorrow.",
+      "tr": "我懂，你累了，我們明天再聊。",
+      "tip": "<b>語氣差很多：</b>平穩說是體諒；很快很重地說 I get it! 是不耐煩。"
+     },
+     {
+      "p": "That's not the point",
+      "zh": "重點不是那個",
+      "scene": "Gloria 和 Jay 吵架時，兩個人常常在講不同的重點。",
+      "en": "Yes, it was cheap, but that's not the point. We don't need it.",
+      "tr": "對，是很便宜，但重點不是那個，我們根本不需要。",
+      "tip": "<b>吵架必備：</b>後面接你真正想說的重點。"
+     }
+    ]
+   },
+   {
+    "id": "mitch",
+    "name": "Mitchell 家",
+    "who": "Mitchell · Cameron · Lily",
+    "plot": "Mitchell 和 Cameron 剛從越南領養了女兒 Lily，準備告訴家人。凡事都想低調的 Mitchell，碰上愛搞排場的 Cameron。",
+    "items": [
+     {
+      "p": "make a big deal out of it",
+      "zh": "小題大作、搞得很隆重",
+      "scene": "Mitchell 希望低調宣布，Cameron 卻想辦得很戲劇化。",
+      "en": "It's just my birthday. Please don't make a big deal out of it.",
+      "tr": "只是我生日而已，拜託別搞得那麼誇張。",
+      "tip": "<b>對比：</b>no big deal 是「沒什麼」，make a big deal out of 是「把它搞大」。"
+     },
+     {
+      "p": "overreact",
+      "zh": "反應過度",
+      "scene": "Mitchell 擔心家人的反應，Cameron 覺得他想太多。",
+      "en": "I think you're overreacting. It's just a small scratch.",
+      "tr": "我覺得你反應過度了，只是一點小刮傷。",
+      "tip": "<b>發音：</b>o-ver-re-ACT，重音在最後。"
+     },
+     {
+      "p": "break the news",
+      "zh": "宣布（通常是讓人震驚的）消息",
+      "scene": "兩人在討論要怎麼告訴家人他們領養了小孩。",
+      "en": "How should we break the news to Mom?",
+      "tr": "我們要怎麼跟媽說這件事？",
+      "tip": "<b>搭配：</b>break the news to + 人。"
+     },
+     {
+      "p": "be on the same page",
+      "zh": "想法一致、有共識",
+      "scene": "兩個人對「怎麼宣布」完全沒有共識。",
+      "en": "Before the meeting, let's make sure we're on the same page.",
+      "tr": "開會前，我們先確定彼此想法一致。",
+      "tip": "<b>職場也超常用：</b>Are we on the same page? 我們有共識了嗎？"
+     },
+     {
+      "p": "hang on a sec",
+      "zh": "等一下",
+      "scene": "家人之間講話常常被打斷，這句到處都聽得到。",
+      "en": "Hang on a sec, I need to grab my keys.",
+      "tr": "等我一下，我去拿鑰匙。",
+      "tip": "<b>連音：</b>hang‿on 唸成「hang-gon」，sec 是 second 的縮寫。"
+     },
+     {
+      "p": "keep it together",
+      "zh": "撐住、保持冷靜不崩潰",
+      "scene": "Mitchell 面對緊張場面時努力讓自己不失控。",
+      "en": "I almost cried during my speech, but I kept it together.",
+      "tr": "我演講時差點哭出來，但撐住了。",
+      "tip": "<b>鼓勵別人：</b>Just keep it together for one more hour."
+     }
+    ]
+   }
+  ],
+  "prompts": [
+   "你小時候被爸媽處罰過最印象深刻的一次（用 grounded、What were you thinking、a deal's a deal）",
+   "你在部隊裡有沒有人很容易緊張大驚小怪（用 freak out、overreact、no big deal）",
+   "你想對某個人說但一直不敢說的事（用 put yourself out there、break the news、be on the same page）"
+  ],
+  "challenges": [
+   {
+    "id": "c1",
+    "sit": "朋友手機摔壞了，一副快崩潰的樣子。你叫他冷靜，跟他說這沒什麼大不了。",
+    "uses": [
+     "freak out",
+     "no big deal"
+    ],
+    "ans": "Don't freak out. It's no big deal. We can get it fixed."
+   },
+   {
+    "id": "c2",
+    "sit": "你跟室友打賭輸的人要請宵夜，他輸了卻想耍賴。你堅持說好就要算數。",
+    "uses": [
+     "a deal's a deal"
+    ],
+    "ans": "Come on, you lost the bet. A deal's a deal."
+   },
+   {
+    "id": "c3",
+    "sit": "朋友半夜一個人騎車上陽明山，手機還沒電。你問他到底在想什麼。",
+    "uses": [
+     "What were you thinking?"
+    ],
+    "ans": "You went up the mountain alone with a dead phone? What were you thinking?"
+   },
+   {
+    "id": "c4",
+    "sit": "你覺得朋友好像喜歡常去那家咖啡店的店員，鼓勵他主動去聊天。",
+    "uses": [
+     "be into someone",
+     "put yourself out there"
+    ],
+    "ans": "I think you're into her. You should put yourself out there and talk to her."
+   },
+   {
+    "id": "c5",
+    "sit": "你和哥哥要跟爸媽說一件大事，開口前你想先確認兩人想法一致。",
+    "uses": [
+     "break the news",
+     "be on the same page"
+    ],
+    "ans": "Before we break the news to Mom and Dad, let's make sure we're on the same page."
+   },
+   {
+    "id": "c6",
+    "sit": "朋友只是被主管念了一句就很沮喪。你說他反應過度，叫他撐到下班就好。",
+    "uses": [
+     "overreact",
+     "keep it together"
+    ],
+    "ans": "You're overreacting. Just keep it together until you get off work."
+   }
+  ]
+ },
+ "s01e02": {
+  "title": "The Bicycle Thief",
+  "lede": "這集的主題是「想當好家長，結果越弄越糟」。Phil 為了兒子的腳踏車一路出包，Jay 第一次替 Manny 收拾他生父留下的爛攤子，Mitchell 和 Cam 則擔心女兒輸在起跑點。大量「掩飾、圓謊、計畫失敗」的說法。",
+  "stories": [
+   {
+    "id": "dunphy",
+    "name": "Dunphy 家",
+    "who": "Phil · Claire · Luke",
+    "plot": "Jay 笑 Luke 騎女生的腳踏車，Phil 一衝動就幫他買了新車。之後 Phil 以為 Luke 把車亂丟，為了不被 Claire 念就先把車「偷」回家，結果一連串誤會讓事情越滾越大。",
+    "items": [
+     {
+      "p": "on impulse",
+      "zh": "一時衝動",
+      "scene": "Phil 被 Jay 一激，沒多想就買了一台新腳踏車。",
+      "en": "I bought these shoes on impulse, and now I regret it.",
+      "tr": "我一時衝動買了這雙鞋，現在後悔了。",
+      "tip": "<b>相關：</b>impulse buy 衝動購物，例如 That was an impulse buy."
+     },
+     {
+      "p": "get away with it",
+      "zh": "做了壞事沒被抓到、逃過一劫",
+      "scene": "Phil 想偷偷把事情處理掉，不讓 Claire 發現。",
+      "en": "He was late again, and somehow he got away with it.",
+      "tr": "他又遲到了，不知道為什麼居然沒事。",
+      "tip": "<b>常見反問：</b>You think you can get away with this? 你以為你逃得掉嗎？"
+     },
+     {
+      "p": "It's not what it looks like",
+      "zh": "事情不是你看到的那樣",
+      "scene": "Phil 被看到牽著別人的腳踏車，怎麼看都很可疑。",
+      "en": "It's not what it looks like. I was just holding her bag for her.",
+      "tr": "不是你想的那樣，我只是幫她拿包包。",
+      "tip": "<b>情境喜劇經典句：</b>被抓包時一定會出現，語速快一點更像。"
+     },
+     {
+      "p": "backfire",
+      "zh": "弄巧成拙、適得其反",
+      "scene": "Phil 想把多出來的車處理掉，結果反而惹出新麻煩。",
+      "en": "I tried to surprise her, but it totally backfired.",
+      "tr": "我想給她驚喜，結果完全弄巧成拙。",
+      "tip": "<b>重音：</b>BACK-fire，重音在前面。"
+     },
+     {
+      "p": "lock up",
+      "zh": "鎖好（車、門、店）",
+      "scene": "整個誤會其實就卡在 Luke 到底有沒有把車鎖好。",
+      "en": "Don't forget to lock up your bike. It's not safe here.",
+      "tr": "記得把腳踏車鎖好，這裡不安全。",
+      "tip": "<b>也能說：</b>Can you lock up tonight? 今晚你負責鎖門好嗎？"
+     }
+    ]
+   },
+   {
+    "id": "jay",
+    "name": "Jay 家",
+    "who": "Jay · Gloria · Manny",
+    "plot": "Jay 和 Manny 一起組電風扇，Jay 不看說明書還被電到兩次。後來 Manny 的生父臨時取消帶他去迪士尼，Jay 為了不讓 Manny 傷心，編了個善意的謊言並想辦法補償他。",
+    "items": [
+     {
+      "p": "figure it out",
+      "zh": "自己搞清楚、想出辦法",
+      "scene": "Jay 堅持不用看說明書，自己就能組好電風扇。",
+      "en": "I don't need a map. I'll figure it out.",
+      "tr": "我不需要地圖，我自己會搞定。",
+      "tip": "<b>連音：</b>figure‿it‿out 唸成「fig-yer-ri-dout」。"
+     },
+     {
+      "p": "bail on someone",
+      "zh": "放某人鴿子、臨時落跑",
+      "scene": "Manny 的爸爸說好要帶他去迪士尼，最後卻沒出現。",
+      "en": "He bailed on us at the last minute again.",
+      "tr": "他又在最後一刻放我們鴿子。",
+      "tip": "<b>比 cancel 更口語，</b>還帶有「不負責任」的感覺。"
+     },
+     {
+      "p": "let someone down",
+      "zh": "讓某人失望",
+      "scene": "Jay 看得出 Manny 被生父傷了心。",
+      "en": "I promised to help, and I don't want to let him down.",
+      "tr": "我答應要幫忙，不想讓他失望。",
+      "tip": "<b>自我要求：</b>I won't let you down. 我不會讓你失望。"
+     },
+     {
+      "p": "a white lie",
+      "zh": "善意的謊言",
+      "scene": "Jay 編了一個理由，讓 Manny 以為行程只是延誤。",
+      "en": "I told her the food was great. It was just a white lie.",
+      "tr": "我跟她說菜很好吃，只是善意的謊言而已。",
+      "tip": "<b>延伸：</b>tell a white lie 說善意的謊言。"
+     },
+     {
+      "p": "make it up to someone",
+      "zh": "補償某人",
+      "scene": "Jay 把原本的行程讓出來，想辦法讓 Manny 開心。",
+      "en": "Sorry I missed your party. Let me make it up to you.",
+      "tr": "抱歉錯過你的派對，讓我補償你吧。",
+      "tip": "<b>道歉後接這句，</b>通常會搭配請吃飯：I'll buy you dinner."
+     }
+    ]
+   },
+   {
+    "id": "mitch",
+    "name": "Mitchell 家",
+    "who": "Mitchell · Cameron · Lily",
+    "plot": "Mitchell 和 Cam 帶 Lily 去上幼兒遊戲班，發現別的小朋友都比她厲害。兩人一時糊塗想把別人的作品說成 Lily 做的，聽到教室有監視器就馬上打退堂鼓。",
+    "items": [
+     {
+      "p": "keep up with",
+      "zh": "跟上（進度、別人）",
+      "scene": "兩人擔心 Lily 跟不上班上其他小孩。",
+      "en": "He walks so fast. I can't keep up with him.",
+      "tr": "他走好快，我跟不上他。",
+      "tip": "<b>常見：</b>keep up with the news 持續關注新聞。"
+     },
+     {
+      "p": "fall behind",
+      "zh": "落後",
+      "scene": "看到別人家的小孩那麼厲害，他們覺得 Lily 已經落後了。",
+      "en": "I was sick for a week and fell behind in class.",
+      "tr": "我病了一個禮拜，課業就落後了。",
+      "tip": "<b>反義：</b>catch up 追上進度。"
+     },
+     {
+      "p": "take credit for",
+      "zh": "把功勞攬在自己身上",
+      "scene": "他們想把別的小朋友堆好的積木說成是 Lily 做的。",
+      "en": "I did all the work, but he took credit for it.",
+      "tr": "事情都是我做的，功勞卻被他拿走。",
+      "tip": "<b>正面用法：</b>I can't take credit for this. It was her idea. 這不是我的功勞，是她的點子。"
+     },
+     {
+      "p": "have second thoughts",
+      "zh": "開始猶豫、改變心意",
+      "scene": "一聽到有監視器，兩人立刻後悔這個計畫。",
+      "en": "I signed up for the trip, but now I'm having second thoughts.",
+      "tr": "我報名了旅行，但現在開始猶豫了。",
+      "tip": "<b>注意：</b>thoughts 一定用複數。"
+     },
+     {
+      "p": "show off",
+      "zh": "炫耀、愛現",
+      "scene": "其他家長和小孩的表現讓 Mitchell 和 Cam 很有壓力。",
+      "en": "He's always showing off his new car.",
+      "tr": "他一天到晚在炫耀他的新車。",
+      "tip": "<b>名詞：</b>He's such a show-off. 他超愛現。"
+     }
+    ]
+   }
+  ],
+  "prompts": [
+   "說一次你衝動購物後悔的經驗（用 on impulse、backfire、have second thoughts）",
+   "有人放你鴿子或讓你失望的事（用 bail on、let someone down、make it up to）",
+   "你剛入伍時跟不上進度的經驗（用 keep up with、fall behind、figure it out）"
+  ],
+  "challenges": [
+   {
+    "id": "c1",
+    "sit": "你一時衝動買了很貴的耳機，跟朋友說現在開始有點後悔。",
+    "uses": [
+     "on impulse",
+     "have second thoughts"
+    ],
+    "ans": "I bought these headphones on impulse, and now I'm having second thoughts."
+   },
+   {
+    "id": "c2",
+    "sit": "朋友約你週末吃飯，但你臨時要加班，只好跟他說要放他鴿子，下次補償他。",
+    "uses": [
+     "bail on someone",
+     "make it up to someone"
+    ],
+    "ans": "Sorry, I have to bail on you this weekend. Let me make it up to you next time."
+   },
+   {
+    "id": "c3",
+    "sit": "你剛下部隊，體能課快跟不上大家，跟朋友說你不想再落後了。",
+    "uses": [
+     "keep up with",
+     "fall behind"
+    ],
+    "ans": "I can barely keep up with everyone in PT. I don't want to fall behind."
+   },
+   {
+    "id": "c4",
+    "sit": "朋友想用別人的學生證買半價票。你提醒他不可能沒事的，而且只會弄巧成拙。",
+    "uses": [
+     "get away with it",
+     "backfire"
+    ],
+    "ans": "You won't get away with it. Trust me, it's going to backfire."
+   },
+   {
+    "id": "c5",
+    "sit": "你跟媽媽說在外面一個人住都有好好吃飯，其實只是不想讓她擔心。跟朋友解釋這件事。",
+    "uses": [
+     "a white lie"
+    ],
+    "ans": "I told my mom I've been eating well. It was just a white lie so she wouldn't worry."
+   },
+   {
+    "id": "c6",
+    "sit": "小組報告都是你做的，結果同學在老師面前說成是他的功勞。你跟朋友抱怨。",
+    "uses": [
+     "take credit for"
+    ],
+    "ans": "I did all the research, and he took credit for it in front of the teacher."
+   }
+  ]
+ }
+}

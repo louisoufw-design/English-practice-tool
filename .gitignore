@@ -1,0 +1,27 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*-key.json
+service-account*.json
+secrets/
+
+# dependencies / tooling
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# temp & OS files
+*.tmp
+*.log
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
